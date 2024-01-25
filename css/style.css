@@ -13,7 +13,7 @@ body {
     align-items: center;
 }
 
-.box{
+.box {
     height: 4em;
     width: 4em;
     /* background-color: brown; */
@@ -22,61 +22,62 @@ body {
 
 .a {
 
-    height: 4em;
-    width: 4em;
     background-color: #fbf8cc;
 }
+
 .b {
 
-    height: 4em;
-    width: 4em;
     background-color: #fde4cf;
 }
+
 .c {
 
-    height: 4em;
-    width: 4em;
+
     background-color: #ffcfd2;
 }
+
 .d {
 
-    height: 4em;
-    width: 4em;
+
     background-color: #f1c0e8;
 }
+
 .e {
 
-    height: 4em;
-    width: 4em;
     background-color: #717FA7;
 }
+
 .f {
 
-    height: 4em;
-    width: 4em;
+
     background-color: #9da2c2;
 }
+
 .g {
 
-    height: 4em;
-    width: 4em;
+
     background-color: #C5BCD5;
 }
+
 .h {
 
-    height: 4em;
-    width: 4em;
+
     background-color: #E9D6E5;
 }
+
 .i {
 
-    height: 4em;
-    width: 4em;
+
     background-color: #CED5E5;
 }
+
 .j {
 
-    height: 4em;
-    width: 4em;
+
     background-color: #dee2a6;
+}
+
+a:hover {
+    transition: 1s;
+    border-radius: 50%;
 }
