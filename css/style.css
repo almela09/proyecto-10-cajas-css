@@ -21,7 +21,7 @@ body {
 }
 
 .a {
-transition: 1s;
+    transition: 1s;
     background-color: #fbf8cc;
 }
 
@@ -33,52 +33,88 @@ transition: 1s;
 
 .c {
 
-
+    transition: 1s;
     background-color: #ffcfd2;
 }
 
 .d {
 
-
+    transition: 1s;
     background-color: #f1c0e8;
 }
 
 .e {
-
+    transition: 1s;
     background-color: #717FA7;
 }
 
 .f {
-
+    transition: 1s;
 
     background-color: #9da2c2;
 }
 
 .g {
-
+    transition: 1s;
 
     background-color: #C5BCD5;
 }
 
 .h {
 
-
+    transition: 1s;
     background-color: #E9D6E5;
 }
 
 .i {
-
+    transition: 1s;
 
     background-color: #CED5E5;
 }
 
 .j {
-
+    transition: 1s;
 
     background-color: #dee2a6;
 }
 
 .a:hover {
+    transition: 1s;
+    border-radius: 50%;
+}
+.b:hover {
+    transition: 1s;
+    border-radius: 50%;
+}
+.c:hover {
+    transition: 1s;
+    border-radius: 50%;
+}
+.d:hover {
+    transition: 1s;
+    border-radius: 50%;
+}
+.e:hover {
+    transition: 1s;
+    border-radius: 50%;
+}
+.f:hover {
+    transition: 1s;
+    border-radius: 50%;
+}
+.g:hover {
+    transition: 1s;
+    border-radius: 50%;
+}
+.h:hover {
+    transition: 1s;
+    border-radius: 50%;
+}
+.i:hover {
+    transition: 1s;
+    border-radius: 50%;
+}
+.j:hover {
     transition: 1s;
     border-radius: 50%;
 }
